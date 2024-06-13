@@ -1,4 +1,4 @@
-Brute Force PDF Password Cracker
+#Brute Force PDF Password Cracker
 Description: This Python script is a brute force password cracker specifically designed to crack numeric passwords protecting PDF files. It uses the PyPDF2 library to interact with the PDF file and the itertools library to generate all possible combinations of numeric characters.
 
 Usage:
