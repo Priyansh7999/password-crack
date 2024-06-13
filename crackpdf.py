@@ -22,6 +22,6 @@ def brute_force_pdf_password(file_path, max_length):
     return None
 
 # Example usage
-file_path =r"C:\Users\priya\Downloads\Data Structures and Algorithms by Narasimha Karumanchi-protected.pdf"
+file_path =r"FILE NAME" #WRITE THE PATH OF YOUR FILE 
 max_length = 6  # Adjust the maximum length as needed
 brute_force_pdf_password(file_path, max_length)
